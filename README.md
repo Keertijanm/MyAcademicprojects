@@ -61,6 +61,7 @@ Seeking an opportunity to gain hands-on experience in a professional setting and
 <details>
 <summary> <h2 style="font-size:24px;">3. Weather website - https://github.com/Keertijanm/weather-web </h2>
 </summary>
+
 https://user-images.githubusercontent.com/81510729/219851820-0f068743-d043-4179-bb21-50a508b419a5.mp4
 </details>
 <hr>
@@ -98,9 +99,10 @@ https://user-images.githubusercontent.com/81510729/219851820-0f068743-d043-4179-
 
 </details>
 <hr>
+
 <details>
 <summary> <h2 style="font-size:20px;">8.Rock-paper-scissor game website -https://github.com/Keertijanm/rock-paper-scissorkeerti</h2>
-</summary>
+</summary> 
 
 ![image](https://user-images.githubusercontent.com/81510729/232183682-139cd56e-edcc-4cf5-85c8-83f441de806c.png)
 
@@ -121,9 +123,11 @@ https://user-images.githubusercontent.com/81510729/219851820-0f068743-d043-4179-
 <details>
  <summary> <h2 style="font-size:20px;">10.Donation website UI -https://github.com/Keertijanm/MyAcademicprojects/tree/donation_website_UI</h2>
 </summary>
-![image]https://user-images.githubusercontent.com/81510729/232182780-45da2f78-8fae-4b5b-8218-004216fa17d5.PNG)
+
+![image](https://user-images.githubusercontent.com/81510729/232182780-45da2f78-8fae-4b5b-8218-004216fa17d5.PNG)
 
 </details>
+
 <hr>
 
 ## Contributions -
